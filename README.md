@@ -40,5 +40,3 @@ Setup variant: Debug or Release.
 
 To build project run: "Terminal->Run Build task->Cmake: build"
 Project can be rebuild with "Cmake: clean rebuild"
-
-Also you can build artifacts (bin/hex/elf) from CMake extension tab.
